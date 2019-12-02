@@ -2,7 +2,7 @@ module.exports = {
   title: "Weijie Luan",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
-  base: "/luanweijie",
+  base: "/vuepress-homepage",
   dest: "./dist",
 
   themeConfig: {
